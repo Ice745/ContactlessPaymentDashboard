@@ -1,0 +1,5 @@
++ jquery@1.9.1
++ typescript@3.8.3
+added 2 packages from 2 contributors and audited 909977 packages in 53.509s
+found 306 vulnerabilities (297 low, 8 moderate, 1 high)
+  run `npm audit fix` to fix them, or `npm audit` for details
